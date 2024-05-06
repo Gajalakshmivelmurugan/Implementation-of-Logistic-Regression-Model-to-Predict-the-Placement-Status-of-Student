@@ -64,8 +64,9 @@ cm_display.plot()
 ```
 
 ## Output:
-![326690641-c34f64ea-5f66-4cab-a4b7-4c66b70b50ec](https://github.com/Gajalakshmivelmurugan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144871940/97f64c9b-8c20-4afc-9fc4-e784cdeb1a20)
-![Uploading 326690683-2a56a61e-7cc1-4792-9ced-9112b6201f99.png…]()
+![326690641-c34f64ea-5f66-4cab-a4b7-4c66b70b50ec](https://github.com/Gajalakshmivelmurugan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144871940/b66e1c92-1b9c-4204-ab6c-2d4ca878fd14)
+![326690683-2a56a61e-7cc1-4792-9ced-9112b6201f99](https://github.com/Gajalakshmivelmurugan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144871940/1da7794d-4249-47fe-ab5e-b2683c8e2946)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
